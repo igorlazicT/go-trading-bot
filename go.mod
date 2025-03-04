@@ -7,6 +7,8 @@ require (
 	github.com/falzm/golang-ring v0.0.0-20171129155418-0d0f97841b7d
 	github.com/go-numb/go-ftx v0.0.0-20211102085954-3f1fa5e6acc1
 	github.com/go-test/deep v1.1.0
+	github.com/google/uuid v1.6.0
+	github.com/gorilla/websocket v1.5.0
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/websocket v1.5.1
 	github.com/jinzhu/copier v0.3.5
@@ -19,8 +21,8 @@ require (
 	github.com/sklinkert/circularbuffer v0.0.0-20210106170632-b66327ee381c
 	github.com/sklinkert/igmarkets v0.0.0-20211012140330-96568d0347d0
 	gorm.io/driver/postgres v1.3.10
-	gorm.io/driver/sqlite v1.4.3
-	gorm.io/gorm v1.24.6
+	gorm.io/driver/sqlite v1.5.5
+	gorm.io/gorm v1.25.7-0.20240204074919-46816ad31dde
 )
 
 require (
@@ -40,7 +42,7 @@ require (
 	github.com/jinzhu/now v1.1.5 // indirect
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/klauspost/compress v1.10.7 // indirect
-	github.com/mattn/go-sqlite3 v1.14.15 // indirect
+	github.com/mattn/go-sqlite3 v1.14.17 // indirect
 	github.com/modern-go/concurrent v0.0.0-20180228061459-e0a39a4cb421 // indirect
 	github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
